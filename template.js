@@ -16,6 +16,7 @@
 
 // // const sum = (a, b) => a+b;
 
+// // rest operator
 // const sum = (...rest) => {
 //     // console.log(arguments); // ❌
 //     console.log(rest); // ✅
@@ -25,10 +26,10 @@
 
 
 
-// spread operator
-const numbers = [1, 2, 5, 6, 8];
+// // spread operator
+// const numbers = [1, 2, 5, 6, 8];
 
-// console.log(...numbers);
+// // console.log(...numbers);
 
-const newNumbers = [...numbers, 7, 9];
-console.log(newNumbers);
+// const newNumbers = [...numbers, 7, 9];
+// console.log(newNumbers);
